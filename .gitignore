@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# MySQL local config / dumps
+*.log
+*.err
+*.sql.bak
+
+# Local data exports
+/exports/
