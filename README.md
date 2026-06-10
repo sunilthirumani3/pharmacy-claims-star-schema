@@ -6,10 +6,6 @@ claims, built in **MySQL**. Raw denormalized claims data is normalized to
 dimensions), loaded, constrained with referential integrity, and queried for
 business insights using **CASE logic** and **window functions**.
 
-> Originally developed for a graduate Data Warehousing & SQL course and
-> repackaged here with relative load paths, split scripts, a data dictionary,
-> and a data-quality test suite.
-
 ---
 
 ## Skills demonstrated
